@@ -1,0 +1,11 @@
+head { font-family: Arial; }
+
+body { font-family: Arial; }
+
+#center {text-align: center; }
+
+.container {border-style: solid; border-color: black;}
+
+#p1 {color: darkgreen;}
+
+#yellow {color: yellow;}
